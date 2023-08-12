@@ -13,14 +13,16 @@ Para poder realizar el curso es necesario tener instalado [NodeJS](https://nodej
 Para instalar el proyecto se debe clonar el repositorio con el siguiente comando:
 
 ```bash
-git clone
+git clone https://github.com/joshuacba08/vanilla-js-unit-test.git
 cd unit-test-vanilla-js 
+
 ```
 
 Luego se debe instalar las dependencias del proyecto con el siguiente comando:
 
 ```bash
 npm install
+
 ```
 
 ## Ejecución
@@ -29,6 +31,7 @@ Para ejecutar el proyecto se debe ejecutar el siguiente comando:
 
 ```bash
 npm run test
+
 ```
 
 ## Licencia

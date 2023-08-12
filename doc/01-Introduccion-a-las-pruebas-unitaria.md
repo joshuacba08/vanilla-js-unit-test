@@ -36,7 +36,7 @@ Deberás clonar el repositorio del curso siguiendo los siguientes pasos:
 1. Abre una terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone
+git clone https://github.com/joshuacba08/vanilla-js-unit-test.git
 ```
 
 2. Luego, ingresa a la carpeta del proyecto:
@@ -60,7 +60,7 @@ npm run dev
 5. Abre el navegador y ve a la siguiente URL:
 
 ```bash
-http://localhost:3000
+http://{tu-dirección-ip}:5173
 ```
 
 6. Corre las pruebas unitarias:
