@@ -85,7 +85,7 @@ describe('Nombre de la prueba unitaria', () => {
 - `test`: Define una prueba unitaria.
 
 
-
+En el siguiente capítulo veremos cómo escribir pruebas unitarias con Jest paso a paso. 
 
 
 
